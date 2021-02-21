@@ -2,8 +2,6 @@
 title: Doing a thing a Day
 ---
 
-## Doing a thing a Day
-
 Life is pretty short, and there is only so much you can do before you're gone.
 If you are someone who wants to have accomplished something before your time is up, procrastination and distractions are your biggest enemies.
 With the current world moving so fast and information and ideas being bombarded at you at such a rapid pace, it can be easy to lose track of what you really want to be doing.

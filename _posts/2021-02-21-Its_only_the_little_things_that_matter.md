@@ -3,8 +3,6 @@ layout: post
 title: Its only the little things that matter
 ---
 
-## Little things are true happiness.
-
 I always wanted to become someone big. Someone whom everyone would aspire to be.
 I wanted to be a global sensation. But lately as I just see myself being a mediocre guy, 
 working for a big corporation in my mid 20s, thinking where it went wrong. Let alone being a Ronaldo or a Messi of my field 
