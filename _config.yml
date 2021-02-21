@@ -1,0 +1,24 @@
+title: Nebulous Musings # name of the site
+author: Nebulous Musings # name of site's author
+email:  # email of site's author
+url: https://blurrybat.github.io/Nebulous_Musings # root address of the site
+description: little things
+
+permalink: /:slug.html
+
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
