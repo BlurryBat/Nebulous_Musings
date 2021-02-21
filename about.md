@@ -3,6 +3,6 @@ layout: post
 title: About
 ---
 
-![blurrybat](https://github.com/BlurryBat/Nebulous_Musings/blob/master/images/blurrybat.jpg)
+![blurrybat](https://raw.githubusercontent.com/BlurryBat/Nebulous_Musings/master/images/blurrybat.jpg)
 coming soon.
 
