@@ -6,8 +6,8 @@ Its funny how any of the annoyances a year back doesn't bother you anymore, time
 they cant solve.
 
 But time sadly isnt unlimited. There is going to be one day when you know its your time, its over. Everything you've done amounted to that moment,
-and you no longer have the free will. You legacy may or maynot continue, but you no more have a say on anything. Imagine writing an exam, and in the final moments
-you retrospect what you've written. But ig the exam of life is kinda different. There is no prep. you just start writing the exam.
+and you no longer have the free will. Your legacy may or maynot continue, but you no more have a say on anything. Imagine writing an exam, and in the final moments
+you retrospect what you've written. But I guess the exam of life is kinda different. There is no preparation. you just start writing the exam.
 You are given a booklet like everyone else, but the contents are not the same. And there are going to be a few who will come to guide you.
 But you got to make the decisions, and that shapes your booklet as well. The booklet is dynamic. And once you are written your decision you cannot take it back.
 
