@@ -2,12 +2,14 @@
 title: Quotes by Charlie Munger
 ---
 
-Most of my thoughts this week revolved around what something charlie munger said to buffet.
+Most of my thoughts this week revolved around something charlie munger said to buffet.
 I dont remember the whole context but he said something like you will understand because you are smart.
 Well, I've been spending time trying to understand things, I am not really striving to create a brilliance, I am just
 enjoying others brilliance.
 
+
 So for this week I will be just quoting some quotes from Munger I found interesting.
+
 
 * Simplicity has a way of improving performance by enabling us to better understand what we are doing.
 * We both (Charlie Munger and Warren Buffett) insist on a lot of time being available almost every day to just sit and think. That is very uncommon in American business. We read and think.
