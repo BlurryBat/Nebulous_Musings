@@ -1,5 +1,5 @@
 ---
-title: Random Thoughts on Life.
+title: Random Thoughts on Life
 ---
 
 Its funny how any of the annoyances a year back doesn't bother you anymore, time truely does heal people. Time is the only way people can move on from the problems 

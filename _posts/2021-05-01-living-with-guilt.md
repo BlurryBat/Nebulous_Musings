@@ -1,5 +1,5 @@
 ---
-title: Living with guilt.
+title: Living with guilt
 ---
 
 So the past 24 hours I've been restless over something I said to someone, and the guilt has been weighing me down.
