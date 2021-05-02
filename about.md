@@ -4,5 +4,7 @@ title: About
 ---
 
 ![blurrybat](https://raw.githubusercontent.com/BlurryBat/Nebulous_Musings/master/images/blurrybat.jpg)
-coming soon.
 
+Internet  
+Decentralization  
+Swarm Intelligence
